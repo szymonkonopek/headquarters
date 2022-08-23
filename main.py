@@ -1,7 +1,5 @@
-from turtle import update
 import pygame
 from sys import exit
-import math
 
 class Conquerors():
     def __init__(self):
